@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MemoryAccess/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MemoryAccess.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MemoryAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MemoryAccess/1.0.0": {
+      "sha512": "TVr8Pb6zxfQME8ZSomsfV0rqGsM9/UBZvzwgCkPoFyx9NqX0NzSZ2nO1jCgo371fDRI+mUIHgEhxyPq6m+cDew==",
+      "type": "package",
+      "path": "memoryaccess/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "lib/netstandard2.0/MemoryAccess.dll",
+        "memoryaccess.1.0.0.nupkg.sha512",
+        "memoryaccess.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MemoryAccess >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ADJIE\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\MEGAsync\\TiAutoSplit2\\TiAutoSplit\\TiAutoSplit.csproj",
+      "projectName": "TiAutoSplit",
+      "projectPath": "C:\\MEGAsync\\TiAutoSplit2\\TiAutoSplit\\TiAutoSplit.csproj",
+      "packagesPath": "C:\\Users\\ADJIE\\.nuget\\packages\\",
+      "outputPath": "C:\\MEGAsync\\TiAutoSplit2\\TiAutoSplit\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ADJIE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\MEGAsync\\NuGet Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "MemoryAccess": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

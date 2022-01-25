@@ -1,0 +1,16 @@
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\bin\Debug\netcoreapp3.1\TiAutoSplit.exe
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\bin\Debug\netcoreapp3.1\TiAutoSplit.deps.json
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\bin\Debug\netcoreapp3.1\TiAutoSplit.runtimeconfig.json
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\bin\Debug\netcoreapp3.1\TiAutoSplit.runtimeconfig.dev.json
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\bin\Debug\netcoreapp3.1\TiAutoSplit.dll
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\bin\Debug\netcoreapp3.1\TiAutoSplit.pdb
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\bin\Debug\netcoreapp3.1\MemoryAccess.dll
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\obj\Debug\netcoreapp3.1\TiAutoSplit.csproj.AssemblyReference.cache
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\obj\Debug\netcoreapp3.1\TiAutoSplit.GeneratedMSBuildEditorConfig.editorconfig
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\obj\Debug\netcoreapp3.1\TiAutoSplit.AssemblyInfoInputs.cache
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\obj\Debug\netcoreapp3.1\TiAutoSplit.AssemblyInfo.cs
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\obj\Debug\netcoreapp3.1\TiAutoSplit.csproj.CoreCompileInputs.cache
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\obj\Debug\netcoreapp3.1\TiAutoSplit.csproj.CopyComplete
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\obj\Debug\netcoreapp3.1\TiAutoSplit.dll
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\obj\Debug\netcoreapp3.1\TiAutoSplit.pdb
+C:\MEGAsync\TiAutoSplit2\TiAutoSplit\obj\Debug\netcoreapp3.1\TiAutoSplit.genruntimeconfig.cache

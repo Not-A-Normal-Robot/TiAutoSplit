@@ -1,6 +1,10 @@
+### Disclaimer
+ This program is not allowed to be used for runs submitted to [the ta.p leaderboard](https://theabsolute.plus).
+
 # TiAutoSplit
  An auto splitter for TGM3 Ti Master mode.  
- As of right now this can predict your COOLs and REGRETs, but it's planned to have more functionality (timer until uncool/regret, current pace, etc)
+ As of right now this can predict your COOLs and REGRETs.
+ Development has stopped because there is no incentive to continue. Feel free to make a fork, though.
 
 ### Downloading
  1. Download/clone the repo.  

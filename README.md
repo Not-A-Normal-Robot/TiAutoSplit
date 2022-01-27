@@ -5,7 +5,7 @@
 
 # TiAutoSplit
  An auto splitter for TGM3 Ti Master mode.  
- As of right now this can predict your COOLs and REGRETs.
+ As of right now this can predict your COOLs and REGRETs.  
  Development has stopped because there is no incentive to continue. Feel free to make a fork, though.
 
 ### Downloading

@@ -1,5 +1,7 @@
-### Disclaimer
- This program is not allowed to be used for runs submitted to [the ta.p leaderboard](https://theabsolute.plus).
+# Disclaimer
+### This program is NOT allowed to be used for runs submitted to [the ta.p leaderboard](https://theabsolute.plus).
+
+
 
 # TiAutoSplit
  An auto splitter for TGM3 Ti Master mode.  

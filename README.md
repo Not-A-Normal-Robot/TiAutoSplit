@@ -14,7 +14,7 @@
  3. Open `TiAutoSplit.exe`. Do not rename, move, or delete any of the files or it will not work.  
 
 ### Note
-- Do not select any text in the console. This stops the program. This is a limitation of Windows' CMD and we cannot do anything about it.  
+- Do not select any text in the console. This stops the program. This is a limitation of Windows' CMD and nothing can be done about it.  
 - If you have another process running named `game.exe` other than TGM3, this might not work.
 
 ### Credits
